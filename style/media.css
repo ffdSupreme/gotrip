@@ -1,0 +1,23 @@
+@media (max-width: 1140px) {
+    .header-nav .container {
+      justify-content: center;
+      gap: 50px;
+    }
+   .box7{
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+   }
+    .box8{
+flex-direction: column;
+align-items: center;
+    }
+    .totol{
+        flex-direction: column;
+    }
+    .footer{
+        flex-direction: column;
+        align-content: space-between;
+        align-items: center;
+    }
+  }
